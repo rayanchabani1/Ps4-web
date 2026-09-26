@@ -1,0 +1,6 @@
+{
+  "name": "دليل الأجهزة والنظم التقنية",
+  "description": "بوابة تعليمية ودليل استرشادي شامل للأجهزة الإلكترونية، إدارة نظم الملفات، صيانة النظام، وإعدادات ما بعد التحديثات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
